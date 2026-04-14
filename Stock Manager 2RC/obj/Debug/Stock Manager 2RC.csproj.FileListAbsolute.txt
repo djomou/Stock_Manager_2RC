@@ -1,0 +1,57 @@
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe.config
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.pdb
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csprojResolveAssemblyReference.cache
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Properties.Resources.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csproj.GenerateResource.Cache
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.exe
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.pdb
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Connexion.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ConnexionSAdmin.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.SuperAdmin.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Ajouter.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ModifSupprim.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Historique.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Articles.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.dll
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.xml
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD_log.ldf
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD.mdf
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe.config
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.exe
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.pdb
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD_log.ldf
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD.mdf
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.dll
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.xml
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csprojResolveAssemblyReference.cache
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Connexion.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ConnexionSAdmin.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.SuperAdmin.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Ajouter.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ModifSupprim.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Historique.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Articles.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Properties.Resources.resources
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csproj.GenerateResource.Cache
+D:\Projet\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.pdb
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe.config
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.exe
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.pdb
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD_log.ldf
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\2RCStockManagerBD.mdf
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.exe
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\Stock Manager 2RC.pdb
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.dll
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\bin\Debug\itextsharp.xml
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csprojResolveAssemblyReference.cache
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Connexion.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ConnexionSAdmin.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.SuperAdmin.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Ajouter.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.ModifSupprim.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Historique.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Articles.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock_Manager_2RC.Properties.Resources.resources
+D:\Mes Fichiers\Mes Cours\C#\Projets\Projet_Stage\Gestion de Stock\Logiciel Fonctionnel\Stock Manager 2RC\Stock Manager 2RC\obj\Debug\Stock Manager 2RC.csproj.GenerateResource.Cache
