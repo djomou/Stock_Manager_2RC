@@ -1,0 +1,7 @@
+
+
+	Pour extraire SqlLocalDB:
+
+	-Entrez dans le dossier SqlLocalDB puis extraire uniquement le "SqlLocalDB.7z.001".
+
+	-Ensuite le SqlLocalDB.msi sera la et vous pourrez l'executer et suivre les instructions pour l'installation.
